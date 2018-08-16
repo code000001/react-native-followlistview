@@ -1,0 +1,19 @@
+//*********TYPES IN THE PROJECT***********
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const CREATE_USER = 'create_user';
+export const CREATE_USER_SUCCESS = 'create_user_succes';
+export const CREATE_USER_FAIL = 'create_user_fail';
+export const GIT_USER_FETCH_SUCCESS = 'git_user_fetch_success';
+export const FOLLOW_UPDATE = 'follow_update';
+export const FOLLOW_UPDATE_SUCCESS = 'follow_update_success';
+export const FOLLOW_UPDATE_FAIL = 'follow_update_fail';
+export const UNFOLLOW_UPDATE = 'unfollow_update';
+export const UNFOLLOW_UPDATE_FAIL = 'unfollow_update_fail';
+export const UNFOLLOW_UPDATE_SUCCESS = 'unfollow_update_success';
+export const GIT_FOLLOW_PUSH_SUCCESS = 'git_follow_push_success';
+export const GIT_UNFOLLOW_PUSH_SUCCESS = 'git_unfollow_push_success';
+export const GIT_FOLLOW_FETCH_SUCCESS = 'git_follow_fetch_success';
